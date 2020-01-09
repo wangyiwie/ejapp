@@ -1,4 +1,4 @@
-template>
+<template>
   <div class="order">
     <van-nav-bar title="我的订单" />
     <van-tabs @click="tabClickHandler" v-model="active" color="#1659a0">
