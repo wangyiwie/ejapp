@@ -1,6 +1,6 @@
 <template>
   <briup-fulllayout title="常用地址">
-  {{info}}
+  <!-- {{info}} -->
   <van-list>
   <van-cell
     v-for="item in addresses"
