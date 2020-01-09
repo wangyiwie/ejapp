@@ -60,8 +60,8 @@ export default {
 .header {
   height: 140px;
   padding: 50px;
-  color: #ffffff;
-  background-color: #1659a0;
+  color: #4d4e4e;
+  background-color: #f2f5d5;
   text-align: center
 }
 .header .logo {
@@ -69,9 +69,9 @@ export default {
   height: 50px;
   line-height: 50px;
   border-radius: 50%;
-  border: 1px solid #efefef;
+  border: 1px solid #4d4e4e;
   margin: 0 auto;
-  color:#efefef;
+  color:#4d4e4e;
   font-weight: bold;
   margin-bottom: 1em;
   font-size: 1.5em
