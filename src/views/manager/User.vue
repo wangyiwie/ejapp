@@ -38,7 +38,7 @@ export default {
 .header {
   padding-top: 46px;
   text-align: center;
-  background: #1659a0;
+  background: #f2f5d5;
   margin-bottom: 2em;
 }
 
@@ -48,14 +48,14 @@ export default {
   height: 10em;
   border-radius: 50%;
   box-sizing: border-box;
-  border:1px solid #1659a0;
+  border:1px solid #4d4e4e;
   overflow:hidden;
   padding: 1em;
 }
 .header .name {
   line-height: 3em;
   font-size: 16px;
-  color: #ffffff;
+  color: #4d4e4e;
 
 }
 .header .photo img {
